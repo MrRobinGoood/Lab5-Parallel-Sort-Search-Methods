@@ -17,7 +17,7 @@ public class Main {
 
     // Пример использования
     public static void main(String[] args) {
-        int[] countElements = new int[]{100, 1000};
+        int[] countElements = new int[]{100, 1000, 10000};
         int[] countThreads = new int[]{2, 4, 8};
         //однопоточные сортировки
         QuickSort quickSort = new QuickSort();

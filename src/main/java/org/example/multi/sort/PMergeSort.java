@@ -1,7 +1,6 @@
 package org.example.multi.sort;
 import java.util.concurrent.RecursiveAction;
 import java.util.concurrent.ForkJoinPool;
-import java.util.Arrays;
 
 public class PMergeSort {
 
